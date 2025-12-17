@@ -16,7 +16,7 @@
 
 - **Software Integrado (*Embebido*):** Diseñado para controlar dispositivos que no son computadoras convencionales, como sistemas automotrices, robótica industrial y redes de telecomunicaciones. Estos sistemas son la base del Internet de las cosas (IoT).
 
-## Referencias## 
+## Referencias ## 
 
 [Instituto Universitario Quito Metropolitano](https://itsqmet.edu.ec/que-es-desarrollo-de-software/)
 
